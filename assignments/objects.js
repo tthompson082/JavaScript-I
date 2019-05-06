@@ -100,6 +100,7 @@ const parent = {
       "age": 30
     }
   }
+  
 }
 
 // Log the parent object's name
